@@ -14,7 +14,7 @@ Currently open for full-time/intern job roles in frontend development
 
 - 🔭 I’m currently working on **Full-Stack projects**
 - 🌱 I’m currently learning **Java**
-- 📫 How to reach me: (https://www.linkedin.com/in/rahul-kumar-04405a256/))
+- 📫 How to reach me: (https://www.linkedin.com/in/rahul7870/)
 
 ### Skills
 
